@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on making it possible for all developers to work better with GitHub Codespaces with a focus on open source communities
+🔭 I’m currently working on making it possible for all developers to work better with GitHub Codespaces with a focus on large organizations including open source communities
 
  If you have feedback for Codespaces, please share! 
 - Participate in the [Codespaces Discussion](https://github.com/github-community/community/discussions/categories/codespaces)
