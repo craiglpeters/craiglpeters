@@ -5,8 +5,8 @@ If you have feedback for Codespaces, please share!
 - Participate in the [Codespaces Discussion](https://github.com/github-community/community/discussions/categories/codespaces)
 
 For feedback on dev containers, 
-- Participate in the Dev Containers Discussion or
-- Open an issue in the spec repo
+- Participate in the [Dev Containers Discussion](https://github.com/orgs/devcontainers/discussions) or
+- Open an [issue in the spec repo](https://github.com/devcontainers/spec/issues) (after checking that similar isn't already there)
 
 Or if you want to chat, [schedule some time](https://calendar.app.google/67nuBM25Umj58Z3q7)
 
